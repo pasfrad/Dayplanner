@@ -1,18 +1,30 @@
-Homework for week 5 of Bootcamp
+# Dayplanner
 
-This is the homework for the sixth week of bootcamp. It teaches the use of the date utility library Moment, as well as the CSS library Bootstrap and other Javascript elements like JQuery and the use of local storage. These elements come together to create a day schedule into which the user may input hourly appointments.
+## Table of Contents
 
-Installation
-The website can be viewed on a internet browser.
+- [Picture](#picture)
+- [Description](#description)
+- [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
 
-Image
-![alt text](./dayplanner.png)
+## Picture
+![picture of dayplanner application](./dayplanner.png)
 
-Usage
+## Description
+This is a front-end only application of a day planner. It uses Bootstrap for styling, local storage for data persistence, Javascript for its functionality, including JQuery and the date utility library Moment.
+
+## License
+None
+
+## Installation
+The website can be viewed on a internet browser, or the repository can be forked.
+
+## Usage
 The website has no outside links or subpages. The user may type appointments into the text boxes and click the save button to save them into local storage. Past hours are colored grey, current is red, and future are green.
 
-Credits
-No collaborators
+## Deployed Application
+https://pasfrad.github.io/Homework-week5-dayplanner/
 
-License
-No license
+## For Questions
+rd.hart@outlook.com
